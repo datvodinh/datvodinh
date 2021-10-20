@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @IamVDD
 - 👀 I’m interested in AI and machine learning
 - 🌱 I’m currently learning DS-AI at HUST
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me:- FB:https://www.facebook.com/profile.php?id=100023875093240
 
 <!---
 IamVDD/IamVDD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
