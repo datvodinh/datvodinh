@@ -15,10 +15,6 @@
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-  
-
-<br/>  
 
 <details>
   <summary>:zap: Music i am listening</summary>
@@ -31,10 +27,8 @@
 datvodinh10/datvodinh10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<img src="https://github-readme-stats.vercel.app/api?username=datvodinh10&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=datvodinh10&label=Profile%20views&color=0e75b6&style=flat&theme=dracula" alt="datvodinh10" /> </p>
-<img src="https://github-readme-stats.vercel.app/api?username=datvodinh10&&show_icons=true&theme=dracula">
-
-
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">  
