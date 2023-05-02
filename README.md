@@ -5,6 +5,12 @@
 - Facebook: https://www.facebook.com/profile.php?id=100023875093240
 - LinkedIn: https://www.linkedin.com/in/vo-dinh-dat-53059b227/
 
+<details>
+  <summary>:zap: Music i am listening</summary>
+  
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ihqokaqgayvchsyqi3w5nxq74y&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31ihqokaqgayvchsyqi3w5nxq74y&redirect=true)
+  
+</details>
 
 <!---
 datvodinh10/datvodinh10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,18 +27,13 @@ You can click the Preview link to take a look at your changes.
 <details>
   <summary>:zap: GitHub Stats</summary>
   
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=drkostas&theme=dracula) 
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=datvodinh10&theme=dracula) 
   
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=datvodinh10&theme=dracula) 
   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=datvodinh10&theme=dracula)
 
 </details>
 
-<details>
-  <summary>:zap: Music i am listening</summary>
-  
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ihqokaqgayvchsyqi3w5nxq74y&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31ihqokaqgayvchsyqi3w5nxq74y&redirect=true)
 
-</details>
 
 
