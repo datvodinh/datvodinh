@@ -16,13 +16,6 @@
 </a>  
 </div>  
 
-<details>
-  <summary>:zap: Music i am listening</summary>
-  
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ihqokaqgayvchsyqi3w5nxq74y&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31ihqokaqgayvchsyqi3w5nxq74y&redirect=true)
-  
-</details>
-
 <!---
 datvodinh10/datvodinh10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -51,6 +44,13 @@ You can click the Preview link to take a look at your changes.
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=datvodinh10&theme=dracula) 
   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=datvodinh10&theme=dracula)
 
+</details>
+
+<details>
+  <summary>:zap: Music i am listening</summary>
+  
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ihqokaqgayvchsyqi3w5nxq74y&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31ihqokaqgayvchsyqi3w5nxq74y&redirect=true)
+  
 </details>
 
 
