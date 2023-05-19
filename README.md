@@ -30,7 +30,7 @@ if __name__ == '__main__':
     print(me)
 ```
 
-<div align="left">
+<div align="center">
 <a href="https://github.com/datvodinh10" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -54,11 +54,17 @@ if __name__ == '__main__':
 datvodinh10/datvodinh10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=datvodinh10&&show_icons=true&style=for-the-badge&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=datvodinh10&label=Profile%20views&color=0e75b6&style=flat&theme=dracula" alt="datvodinh10" /> </p>
+<p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=datvodinh10&&show_icons=true&style=for-the-badge&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-<h3 align="left">Languages and Tools:</h3>
-<div align="left">  
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=datvodinh10&color=0E9C47&style=for-the-badge" alt="datvodinh10" /> </p>
+<p align="center">
+  <a href="https://github.com/datvodinh10?tab=stars&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=star&color=0E9C47&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/datvodinh10"/></a>
+<a href="https://github.com/datvodinh10?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/datvodinh10?color=0E9C47&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
+    
+<h3 align="center">Languages and Tools:</h3>
+<div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
 <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
