@@ -1,9 +1,35 @@
-## Hi there, I'm Dat <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
-- 🔭 I’m currently working on **ML projects**
+## Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+<!-- - 🔭 I’m currently working on **ML projects**
 - 👀 I’m interested in **AI** and **Machine Learning**.
 - 🌱 I’m currently learning for a Bachelor degree in **Data Science** at **HUST**.
 - ❓ Ask me about anything related to **Machine Learning** and **Data Science**.
-- 📫 How to reach me:
+- 📫 How to reach me: -->
+```python
+class Dat:
+    def __init__(self):
+        super().__init__()
+        self.username    = 'datvodinh10'
+        self.name        = 'Võ Đình Đạt'
+        self.website     = 'https://datvodinh10.github.io/'
+        self.university  = 'HUST'
+        self.nationality = 'Viet Nam'
+        self.major       = 'Data Science'
+        self.experience  = {
+            'Code': ['Python','JavaScript','Java','C++'],
+            'Machine Learning': ['Pytorch','Sklearn'],
+            'Cloud': ['Azure','Google Cloud'],
+            'Frontend': ['HTML','CSS'],
+            'Database': ['MySQL','PostgreSQL']
+        }
+    
+    def __call__(self):
+        return f'My name is {self.name} | {self.major} bachelor at {self.university}'
+    
+if __name__ == '__main__':
+    me = Dat()
+    print(me)
+```
+
 <div align="left">
 <a href="https://github.com/datvodinh10" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
