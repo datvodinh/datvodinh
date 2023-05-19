@@ -77,7 +77,9 @@ You can click the Preview link to take a look at your changes.
 
 <br/>  
 
-<details>
+[![Dat's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=datvodinh10&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<!-- <details>
   <summary>:zap: GitHub Stats</summary>
   
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=datvodinh10&theme=dracula) 
@@ -93,7 +95,7 @@ You can click the Preview link to take a look at your changes.
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ihqokaqgayvchsyqi3w5nxq74y&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31ihqokaqgayvchsyqi3w5nxq74y&redirect=true)
   
 </details>
-
+ -->
 
 
 
