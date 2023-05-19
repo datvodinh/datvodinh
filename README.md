@@ -12,7 +12,7 @@ class Dat:
         self.name        = 'Võ Đình Đạt'
         self.website     = 'https://datvodinh10.github.io/'
         self.university  = 'HUST'
-        self.nationality = 'Viet Nam'
+        self.nationality = 'Vietnamese'
         self.major       = 'Data Science'
         self.experience  = {
             'Code': ['Python','JavaScript','Java','C++'],
