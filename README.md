@@ -16,7 +16,7 @@ class Dat:
         self.major       = 'Data Science'
         self.experience  = {
             'Code': ['Python','JavaScript','Java','C++'],
-            'Machine Learning': ['Pytorch','Sklearn'],
+            'Machine Learning': ['Pytorch','Sklearn','Keras','Pandas','Numpy'],
             'Cloud': ['Azure','Google Cloud'],
             'Frontend': ['HTML','CSS'],
             'Database': ['MySQL','PostgreSQL']
