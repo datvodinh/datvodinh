@@ -40,19 +40,21 @@ if __name__ == '__main__':
 <a href="https://www.facebook.com/vdd2003/" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>  
+<a href="mailto:vodinhdat03@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+</a>  
+<a href="mailto:dat.vd214890@sis.hust.edu.vn" target="_blank">
+<img src=https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+</a>  
 </div>
 
-<!-- [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)]([https://github.com/onimur](https://github.com/datvodinh10))
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vo-dinh-dat-53059b227/)
-[![Facebook](https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/vdd2003/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:vodinhdat03@gmail.com)
-[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:dat.vd214890@sis.hust.edu.vn) -->
+<br>
 
 <!---
 datvodinh10/datvodinh10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=datvodinh10&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=datvodinh10&&show_icons=true&style=for-the-badge&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=datvodinh10&label=Profile%20views&color=0e75b6&style=flat&theme=dracula" alt="datvodinh10" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
