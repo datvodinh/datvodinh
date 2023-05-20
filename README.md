@@ -1,10 +1,7 @@
 ## Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/datvodinh10/datvodinh10/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/datvodinh10/datvodinh10/output/github-contribution-grid-snake.svg">
-</picture> -->
+
 
 ```python
 class Dat:
@@ -102,6 +99,11 @@ You can click the Preview link to take a look at your changes.
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 [![Dat's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=datvodinh10&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/datvodinh10/datvodinh10/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/datvodinh10/datvodinh10/output/github-contribution-grid-snake.svg">
+</picture>
 
 <!-- <details>
   <summary>:zap: GitHub Stats</summary>
