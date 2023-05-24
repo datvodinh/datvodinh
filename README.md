@@ -60,18 +60,7 @@ You can click the Preview link to take a look at your changes.
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=star&color=0E9C47&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/datvodinh10"/></a>
 <a href="https://github.com/datvodinh10?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/datvodinh10?color=0E9C47&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
-    
-<!-- <h3 align="left">Languages and Tools:</h3>
-<div align="left">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
-<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
-<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-</div>  
- -->
+
 ## Skill
   ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -95,30 +84,13 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-[![Dat's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=datvodinh10&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Dat's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=datvodinh10&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
   
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/datvodinh10/datvodinh10/output/github-contribution-grid-snake-dark.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/datvodinh10/datvodinh10/output/github-contribution-grid-snake.svg">
 </picture>
 
-<!-- <details>
-  <summary>:zap: GitHub Stats</summary>
-  
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=datvodinh10&theme=dracula) 
-  
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=datvodinh10&theme=dracula) 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=datvodinh10&theme=dracula)
-
-</details>
-
-<details>
-  <summary>:zap: Music i am listening</summary>
-  
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ihqokaqgayvchsyqi3w5nxq74y&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31ihqokaqgayvchsyqi3w5nxq74y&redirect=true)
-  
-</details>
- -->
 
 
 
