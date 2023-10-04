@@ -6,7 +6,7 @@
 
 ## Contact me
 <div align="left">
-<a href="https://github.com/datvodinh10" target="_blank">
+<a href="https://github.com/datvodinh" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/vo-dinh-dat-53059b227/" target="_blank">
@@ -26,19 +26,19 @@
 <br>
 
 <!---
-datvodinh10/datvodinh10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+datvodinh/datvodinh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 ## Stat
-<p align="left"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=datvodinh10&&show_icons=true&style=for-the-badge&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<p align="left"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=datvodinh&&show_icons=true&style=for-the-badge&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=datvodinh10&color=0E9C47&style=for-the-badge" alt="datvodinh10" /> </p> -->
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=datvodinh&color=0E9C47&style=for-the-badge" alt="datvodinh" /> </p> -->
 <p align="left">
-   <a> <img src="https://komarev.com/ghpvc/?username=datvodinh10&color=0E9C47&style=for-the-badge" alt="datvodinh10" /> </a> 
-  <a href="https://github.com/datvodinh10?tab=stars&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=star&color=0E9C47&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/datvodinh10"/></a>
-<a href="https://github.com/datvodinh10?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/datvodinh10?color=0E9C47&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
+   <a> <img src="https://komarev.com/ghpvc/?username=datvodinh&color=0E9C47&style=for-the-badge" alt="datvodinh" /> </a> 
+  <a href="https://github.com/datvodinh?tab=stars&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=star&color=0E9C47&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/datvodinh"/></a>
+<a href="https://github.com/datvodinh?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/datvodinh?color=0E9C47&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
 
 ## Skill
   ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -60,11 +60,11 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<!-- [![Dat's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=datvodinh10&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+<!-- [![Dat's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=datvodinh&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
   <!---
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/datvodinh10/datvodinh10/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/datvodinh10/datvodinh10/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/datvodinh/datvodinh/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/datvodinh/datvodinh/output/github-contribution-grid-snake.svg">
 </picture>
 
 
