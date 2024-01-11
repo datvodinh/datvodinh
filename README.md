@@ -12,14 +12,8 @@
 <a href="https://www.linkedin.com/in/vo-dinh-dat-53059b227/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/vdd2003/" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>  
 <a href="mailto:vodinhdat03@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
-</a>  
-<a href="mailto:dat.vd214890@sis.hust.edu.vn" target="_blank">
-<img src=https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </a>  
 </div>
 
