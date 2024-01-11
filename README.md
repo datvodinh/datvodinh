@@ -8,4 +8,7 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/datvodinh?color=0E9C47&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#2](https://github.com/datvodinh/deep-learning-project/pull/2) in [datvodinh/deep-learning-project](https://github.com/datvodinh/deep-learning-project)
+2. 🎉 Merged PR [#1](https://github.com/datvodinh/deep-learning-project/pull/1) in [datvodinh/deep-learning-project](https://github.com/datvodinh/deep-learning-project)
+<!--END_SECTION:activity-->
 
