@@ -1,5 +1,5 @@
-<p align="left"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=datvodinh&&show_icons=true&style=for-the-badge&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-
+<!--<p align="left"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=datvodinh&&show_icons=true&style=for-the-badge&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+-->
 <p align="left">
    <a> <img src="https://komarev.com/ghpvc/?username=datvodinh&color=0E9C47&style=for-the-badge" alt="datvodinh" /> </a> 
   <a href="https://github.com/datvodinh?tab=stars&sort=stargazers">
