@@ -1,8 +1,9 @@
 <!--<p align="left"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=datvodinh&&show_icons=true&style=for-the-badge&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 -->
 <p align="left">
-   <a> <img src="https://komarev.com/ghpvc/?username=datvodinh&color=0E9C47&style=for-the-badge" alt="datvodinh" /> </a> 
+   <a><img src="https://komarev.com/ghpvc/?username=datvodinh&style=for-the-badge&color=f4dbd6&logo_color=D9E0EE&label_color=302D41&text_color=black" alt="datvodinh" /></a>
+
   <a href="https://github.com/datvodinh?tab=stars&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=star&color=0E9C47&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/datvodinh"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?label=Star&style=for-the-badge&logo=github&color=f4dbd6&logoColor=D9E0EE&labelColor=302D41&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/datvodinh"/></a>
 <a href="https://github.com/datvodinh?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/datvodinh?color=0E9C47&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/datvodinh?style=for-the-badge&logo=github&color=f5bde6&logoColor=D9E0EE&labelColor=302D41&label=Followers"/></a>
