@@ -1,7 +1,7 @@
 
 <p align="left">
 
-  <a href="https://github.com/datvodinh?tab=stars&sort=stargazers">
+  <a href="https://img.shields.io/github/stars/datvodinh">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?label=Stars&style=for-the-badge&logo=github&color=f5bde6&logoColor=D9E0EE&labelColor=302D41&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/datvodinh"/></a>
 <a href="https://github.com/datvodinh?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/datvodinh?style=for-the-badge&logo=github&color=ee99a0&logoColor=D9E0EE&labelColor=302D41&label=Followers"/></a>
