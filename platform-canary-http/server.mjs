@@ -1,5 +1,5 @@
 import { createServer } from 'node:http';
-const version = 'v1';
+const version = 'v2-git-push';
 createServer((request, response) => {
   if (request.url === '/health') {
     response.writeHead(200, { 'content-type': 'application/json' });
