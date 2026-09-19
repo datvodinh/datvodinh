@@ -1,0 +1,11 @@
+services:
+  web:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    depends_on:
+      sidecar:
+        condition: service_started
+  sidecar:
+    image: busybox:1.37.0-glibc@sha256:4279d9b47df4c1b02d80efd8d02cd59b3a8182c1e785a4ff3f6983bee19dc8b0
+    command: ["sh", "-c", "mkdir -p /tmp/www; echo sidecar-private > /tmp/www/index.html; exec httpd -f -p 8081 -h /tmp/www"]

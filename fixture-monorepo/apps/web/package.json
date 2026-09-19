@@ -1,0 +1,8 @@
+{
+  "name": "@thinkmay-fixture/web",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": { "start": "node server.mjs" },
+  "dependencies": { "@thinkmay-fixture/message": "1.0.0" }
+}
